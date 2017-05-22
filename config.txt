@@ -1,0 +1,4 @@
+Team Number : 26
+student ID : 20130289 20130416
+homework number : 10
+homework file : problem2.py
